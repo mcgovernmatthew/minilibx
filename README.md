@@ -1,0 +1,4 @@
+# libft
+# minilibx
+# minilibx
+# minilibx
